@@ -8,4 +8,6 @@ NeuroStartUp — динамически развивающийся старта�
 
 _Логотип_:
 
-![](./logo.png)
+![](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png?raw=true)
+
+тел 8-903-333-222-33
